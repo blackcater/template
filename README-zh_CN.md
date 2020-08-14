@@ -1,18 +1,18 @@
 <h1 align="center">README.md</h1>
 
-English | [简体中文](./README-zh_CN.md)
+简体中文 | [English](./README.md)
 
-## ✨ Features
+## ✨ 新特性
 
-## 🖥 Environment Support
+## 🖥 环境支持
 
-## 📦 Install
+## 📦 快速安装
 
-## 🔨 Usage
+## 🔨 迅速上手
 
-## ⌨️ Development
+## ⌨️ 开发调试
 
-## ❤️ Sponsors and Backers
+## ❤️ 支持大赏
 
 ---
 
